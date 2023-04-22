@@ -18,11 +18,11 @@ const FooterContent = () => {
         <Box sx={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', '& :not(:last-child)': { mr: 4 } }}>
           <Link
             target='_blank'
-            href='https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free/blob/main/LICENSE'
+            href='https://github.com/abhishekakj33/n-elanco-web.git'
           >
             Github
           </Link>
-          <Link target='_blank' href='https://themeselection.com/'>
+          <Link target='_blank' href='#'>
            Demo
           </Link>
         </Box>
